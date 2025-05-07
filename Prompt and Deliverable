@@ -1,0 +1,23 @@
+# Case Study Prompt
+Predicting Egg Prices to Support Consumer Access and Agricultural Policy
+
+In recent years, consumers across the United States have faced substantial price volatility in essential grocery items, with one of the most notable examples being eggs. In 2022 and 2023, egg prices surged dramatically due to a combination of factors, including supply chain disruptions, inflation, avian influenza outbreaks, and shifts in consumer demand. These price increases not only affected household budgets, particularly for low-income families, but also drew attention from policymakers and economists interested in food security, inflation control, and agricultural sustainability.
+
+Eggs are a staple protein source and a widely consumed household item. As such, understanding and forecasting their price behavior is critical for improving economic decision-making at both the individual and policy levels. Grocery store chains could use accurate price forecasts to optimize supply contracts and reduce consumer impact. Similarly, government agencies such as the USDA or the Bureau of Labor Statistics might use predictive insights to inform food assistance program allocations or evaluate market stability.
+
+As a data scientist, you have been tasked with analyzing decades of historical egg price data compiled from official U.S. statistics. Your goal is to investigate underlying patterns and build a reliable time series forecasting model that can predict short-term egg prices. The outcomes of your analysis may support initiatives ranging from inflation response planning to smarter food budgeting for American families.
+
+# The Deliverable
+You are working as a data scientist for a non-partisan economic research center focused on food price stabilization and inflation analysis. Your team is preparing a policy brief for a federal working group examining food price trends in the wake of pandemic-era shocks and climate-related agricultural disruptions. They are particularly interested in the volatility of egg prices and how forecasting can guide policy design and grocery sector planning.
+
+Using the historical egg price data (provided as monthly averages from January 1980 to the present), your task is to:
+
+Perform exploratory data analysis (EDA) to uncover trends, seasonality, outliers, and major shifts in pricing behavior.
+
+Select and implement an appropriate time series model (e.g., ARIMA, SARIMA, Holt-Winters, or Prophet) that can accurately capture the temporal dynamics of egg prices.
+
+Evaluate your model’s performance using metrics such as RMSE, AIC/BIC, and out-of-sample predictions.
+
+Forecast egg prices for a future time period (e.g., 2024 or 2025), clearly presenting your model’s output and interpreting its predictions.
+
+Discuss the real-world implications of your findings. For example, what periods of volatility might require public attention? How could your model help food banks, grocery stores, or government agencies prepare for upcoming changes?
